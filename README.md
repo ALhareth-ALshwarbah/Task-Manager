@@ -50,8 +50,10 @@ pip install .
 
 - by the way the cli command is **alhareth** (it's my name, i know i am lazy in term of choosing names)
 
+![alt text]()
+
 ![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/0217e4a4415ef84b8a57dea21500b35e6b210c34/Screenshot%20-1-repo.png)
 
 ![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/9d92347d1fb4ba8d6a0225ab766493c5be04990b/Screenshot%20-2-repo.png)
 
-![alt text]()
+![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/6d8a2b96988d87777eac157c545edb94e3ea6a8f/Screenshot%20-3-repo.png)
