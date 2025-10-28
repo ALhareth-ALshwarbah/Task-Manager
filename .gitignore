@@ -1,0 +1,6 @@
+.pytest_cache
+Task_Manager.egg-info
+Task_Manager/__pycache__/__init__.cpython-313.pyc
+Task_Manager/__pycache__/cli.cpython-313.pyc
+Task_Manager/__pycache__/core.cpython-313.pyc
+tests/__pycache__/test_cli.cpython-313-pytest-8.4.2.pyc

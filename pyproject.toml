@@ -1,0 +1,15 @@
+[build-system]
+requires = ['setuptools>=61.0']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = 'Task_Manager'
+version = '1.0.0'
+description = 'a simple command-line task manager built in python'
+authors = [{name = 'Alhareth Aldaaja'}]
+readme = 'README.md'
+requires-python = '>=3.13.7'
+dependencies = []
+
+[project.scripts]
+alhareth = 'Task_Manager.cli:main'
