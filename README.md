@@ -52,3 +52,6 @@ pip install .
 
 ![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/0217e4a4415ef84b8a57dea21500b35e6b210c34/Screenshot%20-1-repo.png)
 
+![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/9d92347d1fb4ba8d6a0225ab766493c5be04990b/Screenshot%20-2-repo.png)
+
+![alt text]()
