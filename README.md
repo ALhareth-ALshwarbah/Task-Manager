@@ -26,7 +26,7 @@ python -m Task_Manager.cli list
 1:learn anything
 ```
 
--**remove** : this subparser enable you to delete a task and it's argument is the index, ex:
+- **remove** : this subparser enable you to delete a task and it's argument is the index, ex:
 
 ``` powershell
 python -m Task_Manager.cli remove 1
@@ -50,5 +50,5 @@ pip install .
 
 - by the way the cli command is **alhareth** (it's my name, i know i am lazy in term of choosing names)
 
-![alt text]()
+![alt text](https://github.com/ALhareth-ALshwarbah/Task-Manager/blob/0217e4a4415ef84b8a57dea21500b35e6b210c34/Screenshot%20-1-repo.png)
 
